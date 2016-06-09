@@ -5,6 +5,7 @@ const int blueLEDPin = 11;
 const int redSensorPin =A0;
 const int greenSensorPin = A1;
 const int blueSensorPin = A2;
+int loversauce =0
 
 int redValue = 0;
 int greenValue = 0;
